@@ -1,4 +1,4 @@
-# PHP - Session - Create Read Update Remove
+# PHP  Sesiones, Create Read Update Delete
 Esta una librería que se creó from-scracth, en la FP de Desarrollo de Aplicaciones Web. 
 Fue uno de los primeros ejercicios para aprender a hacer con PHP: Una web que intentase ser responsive y que sobre todo fuera Programación Orientada a Objetos. 
 Aunque hoy la hubiera hecho de forma más lógica y sencilla, es una web a la que le tengo cariño. Con pocos conocimientos en PHP pudo hacerse. Y me permitió entender lo que es Programación Orientada a Objetos. Gracias por la ayuda de recursos, que te permiten aprender-y-avanzar y avanzar-aprendiendo. 
